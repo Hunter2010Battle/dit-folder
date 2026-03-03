@@ -1,4 +1,8 @@
-LICENCE_AGE = 16 
-persons_age = 15
-if persons_age < LICENCE_AGE: print('You are to young to get your licence')
-if persons_age < 16: print('You are to young to get your licence')
+first_name = 'Jack'
+last_name = 'Jones'
+address_details = '57 Pine Lane'
+RETIREMENT_AGE = 65
+print(first_name)
+print(last_name)
+print(address_details)
+print(RETIREMENT_AGE)
