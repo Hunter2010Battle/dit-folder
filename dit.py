@@ -10,4 +10,4 @@ camper_name = ''
 camper_name = input('What is your name? ')
 if camper_name == '':
   print('You must enter you name!')
-  
+  print("hello")
